@@ -6,32 +6,6 @@
   "rewarded_min_watch_ms": 15000,
   "creatives": [
     {
-      "id": "strike_video_1",
-      "format": "video",
-      "placements": ["interstitial", "rewarded"],
-      "media_url": "https://arkenrockapp.github.io/coin/video_1.mp4",
-      "image_url": "https://arkenrockapp.github.io/coin/Interstitial_1.png",
-      "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strike Online",
-      "body": "Jump into intense action and prove your skills in every match!",
-      "cta_text": "Install",
-      "bundle_id": "com.starquill.nebulaloomcartographer",
-      "weight": 1
-    },
-    {
-      "id": "strike_video_2",
-      "format": "video",
-      "placements": ["interstitial", "rewarded"],
-      "media_url": "https://arkenrockapp.github.io/coin/video_2.mp4",
-      "image_url": "https://arkenrockapp.github.io/coin/Interstitial_2.png",
-      "icon_url": "https://arkenrockapp.github.io/coin/icon.png",
-      "title": "Real Strike Online",
-      "body": "Fast battles, sharp aim and nonstop strike action await!",
-      "cta_text": "Install",
-      "bundle_id": "com.starquill.nebulaloomcartographer",
-      "weight": 1
-    },
-    {
       "id": "strike_interstitial_1",
       "format": "image",
       "placements": ["interstitial", "rewarded"],
